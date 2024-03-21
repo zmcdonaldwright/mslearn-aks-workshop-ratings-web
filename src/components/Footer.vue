@@ -7,7 +7,7 @@
     </div>
     <div class="row at-row flex-center flex-middle">
       <div class="col-lg-24">
-        <img src="/static/img/sistema.jpg">
+        <img src="/static/img/sistema2.jpg">
       </div>
     </div>
     <div class="row at-row flex-center flex-middle">
